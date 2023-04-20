@@ -8,9 +8,20 @@
 .carousel-item{
     padding: 60px 60px;
 }
-h1{
+
+.price{
     color: white;
 }
-.price{
-    color: aqua;
-}
+.buynow{
+    border-radius: 8px;
+    color: rgb(0, 0, 0);
+    border: none;
+    cursor: pointer;
+    padding: 20px, 25px;
+    background-image:linear-gradient(to bottom,#ebff0a 0%, #ff9d00 100%)
+    
+    }
+    h1,p{
+        color: white;
+        
+    }
