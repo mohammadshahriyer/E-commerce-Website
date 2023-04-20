@@ -1,0 +1,16 @@
+.logo{
+    height: 35px;
+    width: 200px;
+}
+.slider-bg{
+    background-color: #7b00ff;
+}
+.carousel-item{
+    padding: 60px 60px;
+}
+h1{
+    color: white;
+}
+.price{
+    color: aqua;
+}
