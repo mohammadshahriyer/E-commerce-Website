@@ -12,6 +12,9 @@
 .price{
     color: white;
 }
+.carosol{
+    border-radius: 5px;
+}
 .buynow{
     border-radius: 8px;
     color: rgb(0, 0, 0);
@@ -25,3 +28,30 @@
         color: white;
         
     }
+
+    .cat1, .cat2, .cat3{
+        padding: 20px 30px;
+        border: none;
+        border-radius: 5px;
+    }
+    .cat1{ 
+        background-color: red;
+    }
+
+    .cat2{ 
+        background-color: chartreuse;
+    }
+    .cat3{ 
+        background-color: blue;
+    }
+.catagories{
+    padding-top: 30px;
+}
+.imagee{
+    height: 100px;
+
+}
+.card-text{
+    color: #7b00ff;
+    text-align: justify;
+}
