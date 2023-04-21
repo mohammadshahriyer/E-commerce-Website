@@ -4,6 +4,7 @@
 }
 .slider-bg{
     background-color: #7b00ff;
+    border-radius: 10px;
 }
 .carousel-item{
     padding: 60px 60px;
@@ -12,9 +13,7 @@
 .price{
     color: white;
 }
-.carosol{
-    border-radius: 5px;
-}
+
 .buynow{
     border-radius: 8px;
     color: rgb(0, 0, 0);
@@ -25,14 +24,14 @@
     
     }
     h1,p{
-        color: white;
+        color: rgb(0, 0, 0);
         
     }
 
     .cat1, .cat2, .cat3{
         padding: 20px 30px;
         border: none;
-        border-radius: 5px;
+        border-radius: 10px;
     }
     .cat1{ 
         background-color: red;
@@ -52,6 +51,23 @@
 
 }
 .card-text{
-    color: #7b00ff;
+    color: #000000;
     text-align: justify;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.container{
+    padding-top: 40px;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+
+}
+#Subscribe{
+    height: 300px;
+    margin-top: 60px;
 }
